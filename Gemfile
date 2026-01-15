@@ -8,3 +8,4 @@ gem 'jemoji', group: :jekyll_plugins
 
 gem 'webrick', '~> 1.8'
 gem 'connection_pool', '2.5.0'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

@@ -2,25 +2,26 @@
 permalink: /
 title: "Haifeng Liu"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate at ShanghaiTech University studying brain–computer interfaces for extended-reality interaction. My work centers on binocular SSVEP paradigms for immersive VR/AR environments, Unity-based multi-scene EEG-BCI platforms, and wearable EEG devices tailored for everyday use. I am interested in how perception design, neural decoding, and system engineering come together to deliver practical noninvasive BCIs.
+Ph.D. candidate at ShanghaiTech University and Shanghai Advanced Research Institute (CAS) focusing on XR-based brain-computer interfaces. Research centers on VEP paradigms in VR/AR, wearable physiological sensing, and embedded system development for practical BCIs. Seeking to advance XR-BCI through co-evolution of novel interfaces and edge intelligence, toward next-generation personal terminals enabling Internet of Brains.
 
 ## Research Interests
-- VR/AR binocular SSVEP paradigms for noninvasive BCI control
-- Unity-based multi-scene EEG-BCI experimental platforms
-- Wearable EEG / ear-EEG prototypes and daily-life BCI applications
 
-## Selected Highlights
-- Proposed binocular SSVEP encoding schemes that enable few-frequency, multi-target interfaces in immersive VR settings.
-- Built Unity-driven cross-scene BCI frameworks and ear/band EEG prototypes for mobile interaction.
-- Developed multi-user brain-networking demos combining AR displays with collaborative BCI control.
-- Led teams that won bronze in the 2025 China BCI Competition (brain-controlled car and robotic arm events).
+- **VR/AR SSVEP Paradigms:** Binocular encoding schemes for immersive multi-target interfaces with improved throughput and visual comfort
+- **End-to-End BCI Systems:** Unity-based platforms connecting stimulus, neural decoding, and closed-loop control (drones, robotic arms, vehicles)
+- **Wearable Sensing:** Wireless EEG systems and ear-EEG prototypes for mobile, daily-life BCI applications
+- **Future:** High-resolution adaptive sensing for XR headsets; cognitive digital twins and multi-user brain-networking
+
+## Highlights
+- Co-founded GuoKe XinNao to commercialize ear-EEG wearables
+- Bronze medals at 2025 China BCI Competition (brain-controlled car and robotic arm)
+- Multi-user AR-BCI brain-networking demos
 
 ## Contact
-- Email: [liuhf728@gmail.com](mailto:liuhf728@gmail.com)
+- Email: [liuhf@shanghaitech.edu.cn](mailto:liuhf@shanghaitech.edu.cn)
 - GitHub: [7h4Worker](https://github.com/7h4Worker)
 - Location: Shanghai, China

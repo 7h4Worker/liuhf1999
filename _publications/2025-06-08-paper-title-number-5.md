@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-jbhi-binocular-ssvep
 excerpt: 'Accepted IEEE JBHI article describing binocular encoding strategies that raise throughput and robustness in VR-oriented BCIs.'
-date: 2025-10-23
-venue: 'IEEE Journal of Biomedical and Health Informatics (accepted)'
-paperurl:
-citation: 'H. Liu, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu. (2025). &quot;A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>, accepted Oct 23, 2025.'
+date: 2025-12-01
+venue: 'IEEE Journal of Biomedical and Health Informatics'
+paperurl: 'https://doi.org/10.1109/JBHI.2025.3626332'
+citation: '<b>H. Liu</b>, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu. (2025). &quot;A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>, accepted Oct 23, 2025.'
 header:
   teaser: jbhi-GA.jpg
 ---

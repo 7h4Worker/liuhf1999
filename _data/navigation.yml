@@ -20,8 +20,5 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Blog"
-    url: /year-archive/
-
   - title: "中文简介"
     url: /profile-zh/

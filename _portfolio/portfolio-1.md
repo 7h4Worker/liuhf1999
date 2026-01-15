@@ -3,7 +3,7 @@ title: "VR SSVEP Drone Control Platform"
 excerpt: "Immersive drone piloting experience powered by SSVEP decoding."
 collection: portfolio
 header:
-	teaser: project_ssvep_drone.jpg
+  teaser: project_ssvep_drone.jpg
 ---
 
 ![VR SSVEP drone control platform]({{ '/images/project_ssvep_drone.jpg' | relative_url }})
