@@ -13,4 +13,28 @@ header:
 ---
 ![JBHI binocular SSVEP graphical abstract]({{ '/images/jbhi-GA.jpg' | relative_url }})
 
-We introduce binocular phase-aligned SSVEP encoding that improves information transfer rate and visual comfort when operating VR-based BCIs. The approach maintains robustness under head movement and depth changes, supporting richer multi-target interaction inside immersive environments.
+**Abstract**
+
+This paper presents a novel binocular-encoded
+SSVEP (beSSVEP) method, leveraging binocular vision in virtual
+reality (VR) to enhance brain-computer interface (BCI)
+applications. We introduce the Binocular Periodically Repeated
+Component Analysis (bPRCA) algorithm, designed to address
+the unique characteristics of binocular-encoded targets, which
+include combinations of monocular single-frequency SSVEP units
+or void units, with frequency units being reused multiple times
+in the encoded interface. To further optimize performance, we
+propose the Fusion Component Analysis (FusionCA) framework,
+which integrates bPRCA with Task-related Component
+Analysis (TRCA), effectively utilizing both steady-state periodic
+components and cross-trial aperiodic components. Experimental
+results demonstrate that ensemble-FusionCA achieves the highest
+information transfer rate (ITR) with an average accuracy of
+71.39% and an ITR of 138.50 bits/min at 0.4 seconds, among the
+comparison with ensemble-bPRCA and ensemble-TRCA. Compared
+to traditional SSVEP approaches, beSSVEP significantly
+enhances frequency utilization, making VR-BCI systems more
+efficient and practical. This study highlights the application of
+physiological mechanisms of binocular vision to improve BCI
+systems, offering a new perspective for developing fast and
+scalable brain-computer interactions in VR environments.

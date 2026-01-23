@@ -14,10 +14,10 @@ Ph.D. candidate at ShanghaiTech University and Shanghai Advanced Research Instit
 - **VR/AR SSVEP Paradigms:** Binocular encoding schemes for immersive multi-target interfaces with improved throughput and visual comfort
 - **End-to-End BCI Systems:** Unity-based platforms connecting stimulus, neural decoding, and closed-loop control (drones, robotic arms, vehicles)
 - **Wearable Sensing:** Wireless EEG systems and ear-EEG prototypes for mobile, daily-life BCI applications
-- **Future:** High-resolution adaptive sensing for XR headsets; cognitive digital twins and multi-user brain-networking
+- **Future:** Toward neural interfaces that blend seamlessly into XR headsets—adaptive sensing, real-time state inference, and on-device intelligence
 
 ## Highlights
-- Co-founded GuoKe XinNao to commercialize ear-EEG wearables
+- Co-founded a startup to commercialize ear-EEG wearables
 - Bronze medals at 2025 China BCI Competition (brain-controlled car and robotic arm)
 - Multi-user AR-BCI brain-networking demos
 

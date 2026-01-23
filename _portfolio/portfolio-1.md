@@ -1,15 +1,15 @@
 ---
-title: "VR SSVEP Drone Control Platform"
-excerpt: "Immersive drone piloting experience powered by SSVEP decoding."
+title: "VR-BCI Platform & Binocular SSVEP"
+excerpt: "Unity-based VR-BCI with binocular SSVEP encoding for immersive brain-controlled applications."
 collection: portfolio
 header:
   teaser: project_ssvep_drone.jpg
 ---
 
-![VR SSVEP drone control platform]({{ '/images/project_ssvep_drone.jpg' | relative_url }})
+![VR SSVEP drone control]({{ '/images/project_ssvep_drone.jpg' | relative_url }})
 
-This project integrates VR-rendered SSVEP targets with a quadrotor control stack, allowing pilots to steer and adjust altitude using only brain responses.
+Unity-based VR-BCI platform with Neuroscan integration, featuring binocular SSVEP encoding that exploits stereoscopic disparity and rivalry for enhanced target discrimination.
 
-- **Focus:** Rapid target selection workflow optimized for immersive displays.
-- **Role:** Led Unity scene design, signal processing pipeline, and ROS bridge to the drone autopilot.
-- **Outcome:** Demonstrated stable outdoor flight at university demos and inspired competition entries.
+- **Paradigm:** Binocular-encoded SSVEP using left/right eye frequency combinations
+- **Platform:** Unity + Neuroscan real-time streaming + ONNX model deployment
+- **Applications:** Brain-controlled drone, robotic arm, and vehicle demos
