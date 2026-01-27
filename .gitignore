@@ -24,3 +24,4 @@ package-lock.json
 
 # Ignore local personal resources
 personal_resource/
+backup_materials/
