@@ -1,15 +1,17 @@
 ---
-title: "VR-BCI Platform & Binocular SSVEP"
-excerpt: "Unity-based VR-BCI with binocular SSVEP encoding for immersive brain-controlled applications."
+title: "Unity SSVEP-BCI System"
+excerpt: "Unity-based SSVEP-BCI platform for brain-controlled applications."
 collection: portfolio
 header:
-  teaser: project_ssvep_drone.jpg
+  teaser: 脑控-unity项目.jpg
 ---
 
-![VR SSVEP drone control]({{ '/images/project_ssvep_drone.jpg' | relative_url }})
+SSVEP-BCI for Internet of Brain and Things — Wearable SSVEP-BCI with ONNX-deployed neural network; demonstrated brain-controlled drone, robotic arm, and animal behavior modulation.
 
-Unity-based VR-BCI platform with Neuroscan integration, featuring binocular SSVEP encoding that exploits stereoscopic disparity and rivalry for enhanced target discrimination.
+## Unity Project Overview
 
-- **Paradigm:** Binocular-encoded SSVEP using left/right eye frequency combinations
-- **Platform:** Unity + Neuroscan real-time streaming + ONNX model deployment
-- **Applications:** Brain-controlled drone, robotic arm, and vehicle demos
+<img src="{{ '/images/脑控-unity项目.jpg' | relative_url }}" alt="Unity SSVEP-BCI project">
+
+## Brain-Controlled Drone
+
+<img src="{{ '/images/project_ssvep_drone.jpg' | relative_url }}" alt="Brain-controlled drone">

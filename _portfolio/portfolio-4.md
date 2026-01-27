@@ -1,21 +1,20 @@
 ---
 title: "Wearable EEG Systems"
-excerpt: "WiFi/BLE wearable EEG and ear-EEG prototypes for mobile BCI applications."
+excerpt: "WiFi/BLE wearable EEG prototypes for mobile BCI applications."
 collection: portfolio
 header:
-  teaser: wearbableBCI_ble.jpg
+  teaser: 2穿戴bci-多形态探索.jpg
 ---
+WiFi/BLE wearable EEG systems — ADS1299-based systems with WiFi/BLE streaming; developed PC host software and Unity interface.
 
-![Wearable BCI with BLE connectivity]({{ '/images/wearbableBCI_ble.jpg' | relative_url }})
+## 8-Channel System
 
-Wearable EEG acquisition systems for practical BCI applications outside the laboratory.
+<img src="{{ '/images/1穿戴bci-8通道系统.jpg' | relative_url }}" alt="8-channel wearable EEG system">
 
-## WiFi/BLE EEG
+## Exploratory Work on Wearable Form
 
-- **Hardware:** ADS1299-based front-end with WiFi/BLE streaming
-- **Software:** PC host application + Unity integration
+<img src="{{ '/images/2穿戴bci-多形态探索.jpg' | relative_url }}" alt="Form factor exploration">
 
-## Ear-EEG Wearable
+## Bluetooth/Wired Dual-mode Version for VR/Mobile（In Progress）
 
-- **Form Factor:** Swappable earcup module with miniaturized sensors
-- **Platform:** NRF52832 + companion mobile app
+<img src="{{ '/images/3穿戴bci-开发中.jpg' | relative_url }}" alt="Bluetooth/wired dual-mode version">

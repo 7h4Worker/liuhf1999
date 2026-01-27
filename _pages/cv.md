@@ -30,25 +30,22 @@ Research & Project Experience
 
 ### EEG Acquisition Platforms
 
-* **2022–Present:** WiFi/BLE wearable EEG systems — ADS1299-based systems with WiFi/BLE streaming; developed PC host software and Unity interface
-* **2024:** All-in-one multimodal physiological signal system — Zynq-based workstation with EEG/ECG/EMG, CCA-based SSVEP pipeline, and PyQt interface
-* **2024–Present:** Bluetooth ear-EEG wearable — Swappable earcup module with miniaturized EEG; developed companion app
+* **2022–Present:** Wireless EEG and ear-EEG wearable system — ADS1299-based wireless EEG with WiFi/BLE streaming and Unity integration; extended to miniaturized ear-EEG with swappable earcup module and companion app
+* **2024:** Physiological signal acquisition workstation — Zynq-based EEG/ECG/EMG system with real-time bandpower computation, attention index output, CCA-based SSVEP decoding, and PyQt experiment interface
 
-### VR/AR BCI Integration
+### VR/AR BCI Systems
 
-* **2022–2024:** VR-SSVEP experimental platform — Unity-based VR-BCI with Neuroscan integration; developed binocular SSVEP encoding exploiting stereoscopic disparity and rivalry
-* **2023–2024:** SSVEP-BCI for Internet of Brain and Things — Wearable SSVEP-BCI with ONNX-deployed neural network; demonstrated brain-controlled drone, robotic arm, and animal behavior modulation
-* **2023–2024:** Standalone AR-BCI and Internet of Brains — HoloLens AR-BCI with Zigbee networking for wireless brain-to-brain signal transmission
+* **2022–2024:** VR-SSVEP experimental platform with binocular mechanisms — Unity-based VR-BCI platform with Neuroscan integration; developed binocular SSVEP encoding exploiting stereoscopic disparity and rivalry for enhanced target discrimination; managed IRB protocol and full analysis pipeline
+* **2023–2024:** SSVEP-BCI for Internet of Brain and Things — Wearable SSVEP-BCI system with Unity-based interface and ONNX-deployed neural network; demonstrated brain-controlled drone, robotic arm, and animal behavior modulation applications
+* **2023–2024:** Standalone AR-BCI and Internet of Brains prototype — HoloLens-based AR-BCI with Zigbee networking for wireless brain-to-brain signal transmission
 
-Professional Experience
-=======================
+Professional & Teaching Experience
+==================================
 
-* **2024–Present:** Co-founder & Technical Lead, BCI Startup
-  * Leading ear-EEG wearable R&D and BCI technology commercialization for consumer applications
-* **2025:** Technical Consultant & Project Lead
-  * Designed portable BCI demonstration kit: tablet-based Unity SSVEP system with wearable EEG for drone control
-* **2026 Spring:** Teaching Assistant, Brain-Computer Communication and Internet of Brain, ShanghaiTech University
-* **2023 Fall:** Teaching Assistant, Signals and Systems Lab, ShanghaiTech University
+* **2024–Present:** Technical Lead, Ear-EEG Wearable Startup Project — Leading R&D of miniaturized ear-EEG system for consumer BCI applications; awarded First Prize in 2025 Shanghai Emerging Technology Competition
+* **2025:** Technical Consultant & Project Lead — Designed and developed portable BCI demonstration kit: tablet-based Unity SSVEP system with wearable EEG for 8-command drone control, targeting education and outreach applications
+* **2026 Spring:** Teaching Assistant, Brain-Computer Communication and Internet of Brain, ShanghaiTech University — Authored BCI System Development chapter based on hands-on system prototyping experience
+* **2023 Fall:** Teaching Assistant, Signals and Systems Lab, ShanghaiTech University — Assignment grading, lab program tutoring, and course material preparation
 
 Publications
 ============
@@ -69,4 +66,4 @@ Academic Service
 ================
 
 * **Peer Review:** *Biomedical Physics & Engineering Express*, *Journal of Neural Engineering*, *IEEE JBHI*, *Advanced Intelligent Systems*
-* **Conference:** Poster presentation at 2025 "Smart Connection·Future" BCI International Conference, Hangzhou
+* **Conference Presentations:** Poster presentation at 2025 "Smart Connection·Future" BCI International Conference and 1st China BCI Intelligence Conference, Hangzhou
