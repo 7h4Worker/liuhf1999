@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Haifeng Liu"
 author_profile: true
@@ -17,9 +18,9 @@ Ph.D. candidate at ShanghaiTech University & SARI (CAS) in XR-based brain-comput
 - **Future:** Toward neural interfaces that blend seamlessly into XR headsets—adaptive sensing, real-time state inference, and on-device intelligence
 
 ## Highlights
-- Technical Lead of ear-EEG wearable startup project, awarded First Prize in 2025 Shanghai Emerging Technology Competition
+- Published papers in IEEE JBHI, JNE, Frontiers in Neuroscience, etc., with 3 first-author and 1 co-first-author publications
+- XR-BCI prototype systems and multi-user BCI interaction prototype ("Internet of Brains")
 - Third Prize at 2025 Brain-Computer Interface Conference (brain-controlled vehicle and robotic arm, Team Leader)
-- Multi-user AR-BCI brain-networking prototype demos
 
 ## Contact
 - Email: [liuhf@shanghaitech.edu.cn](mailto:liuhf@shanghaitech.edu.cn)

@@ -190,24 +190,17 @@
   }
 
   button {
-    position: absolute;
-    height: 2.5rem;
-    right: 0;
-    padding: 0 0.5rem;
-    border: 0;
-    outline: none;
-    background-color: var(--global-bg-color);
-    color: #fff;
-    cursor: pointer;
-    z-index: 100;
+    display: none;
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    align-items: center;
+    width: 100%;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: block;
+      white-space: nowrap;
 
       &:first-child {
         font-weight: bold;
@@ -216,6 +209,10 @@
         a {
           margin-left: 0;
         }
+      }
+
+      &:nth-child(2) {
+        margin-left: auto;
       }
 
       &:last-child {
