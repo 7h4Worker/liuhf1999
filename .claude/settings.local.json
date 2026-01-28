@@ -10,7 +10,9 @@
       "Bash(ruby --version:*)",
       "Bash(bundle:*)",
       "Bash(dir:*)",
-      "Bash(cmd /c:*)"
+      "Bash(cmd /c:*)",
+      "Bash(git reflog:*)",
+      "Bash(git gc:*)"
     ],
     "deny": [],
     "ask": []

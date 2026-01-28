@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. candidate at ShanghaiTech University and Shanghai Advanced Research Institute (CAS) focusing on XR-based brain-computer interfaces. Research centers on VEP paradigms in VR/AR, wearable physiological sensing, and embedded system development for practical BCIs. Seeking to advance XR-BCI through co-evolution of novel interfaces and edge intelligence, toward next-generation personal terminals enabling Internet of Brains.
+Ph.D. candidate at ShanghaiTech University & SARI (CAS) in XR-based brain-computer interfaces. Research integrates VEP paradigm design, wearable neural sensing, and embedded system deployment toward practical BCIs.
 
 ## Research Interests
 
@@ -17,9 +17,9 @@ Ph.D. candidate at ShanghaiTech University and Shanghai Advanced Research Instit
 - **Future:** Toward neural interfaces that blend seamlessly into XR headsets—adaptive sensing, real-time state inference, and on-device intelligence
 
 ## Highlights
-- Co-founded a startup to commercialize ear-EEG wearables
-- Bronze medals at 2025 China BCI Competition (brain-controlled car and robotic arm)
-- Multi-user AR-BCI brain-networking demos
+- Technical Lead of ear-EEG wearable startup project, awarded First Prize in 2025 Shanghai Emerging Technology Competition
+- Third Prize at 2025 Brain-Computer Interface Conference (brain-controlled vehicle and robotic arm, Team Leader)
+- Multi-user AR-BCI brain-networking prototype demos
 
 ## Contact
 - Email: [liuhf@shanghaitech.edu.cn](mailto:liuhf@shanghaitech.edu.cn)
