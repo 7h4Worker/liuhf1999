@@ -66,4 +66,4 @@ Academic Service
 ================
 
 * **Peer Review:** *Biomedical Physics & Engineering Express*, *Journal of Neural Engineering*, *IEEE JBHI*, *Advanced Intelligent Systems*
-* **Conference Presentations:** Poster presentation at 2025 "Smart Connection·Future" BCI International Conference and 1st China BCI Intelligence Conference, Hangzhou
+* **Conference Presentations:** Poster presentation at 2025 International Conference on Brain-Machine Intelligence (Hangzhou, China)
